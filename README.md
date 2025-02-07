@@ -1,1 +1,1 @@
-Customer segmentation using clustering methods for a food delivery service. Awarded a grade of 20/20.
+Customer segmentation using clustering methods for a food delivery service. Project developed in the first semester of the master's degree in Data Science and Advanced Analytics @ NOVA IMS, in the course of Machine Learning. Awarded a grade of 20/20.
